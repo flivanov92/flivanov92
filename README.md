@@ -6,7 +6,6 @@
 I'm excited to share my portfolio with you, which highlights my skills and experience as a web developer. I have a deep passion for designing and developing user-friendly and visually appealing websites that meet the needs of my clients. My expertise in TypeScript, NextJs, React, Firebase, and Figma has enabled me to create web applications that are efficient, scalable, and responsive. I am always looking for ways to improve my skills and stay up-to-date with the latest web development practices.
 
 
-## Other Common Github Profile Sections
 👩‍💻 I'm currently working on... **` building my portfolio `**
 
 🧠 I'm currently learning... **`NextJs, Firebase`**
