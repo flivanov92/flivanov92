@@ -14,7 +14,7 @@ I'm excited to share my portfolio with you, which highlights my skills and exper
 
 💬 Ask me about... **` React, Typescript `**
 
-📫 How to reach me... **`flivanov92@gmailcom`**
+📫 How to reach me... **`flivanov92@gmail.com`**
 
 
 ## 🔗 Links
