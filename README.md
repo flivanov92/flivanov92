@@ -12,13 +12,13 @@ I'm excited to share my portfolio with you, which highlights my skills and exper
 
 👯‍♀️ I'm looking to collaborate on... **` long term projects `**
 
-💬 Ask me about... **` React, Typescript `**
+💬 Ask me about... **` React, Vercel `**
 
 📫 How to reach me... **`flivanov92@gmail.com`**
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://my-portfolio-nx-next13.netlify.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://my-portfolio-nextjs14.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandru-ivanov-509111121/)
 [![whatsapp](https://img.shields.io/badge/Whatsapp-07928470121-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/+447928470121?text=)
 
